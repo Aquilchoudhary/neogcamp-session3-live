@@ -21,9 +21,9 @@ body{
 }
 .primary-link
 {
-    background-color: var;
+    background-color: var
     (--primary-color);
     border-radius: 0.5rem;
-    color:white 
+    color : white
 
 }
