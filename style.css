@@ -2,6 +2,7 @@
 
 :root {
     --primary-color:#7c3aed;
+    --dark-gray:#6B7280;
 
 }
 
@@ -85,4 +86,25 @@ body{
 .link-active
 {
     font-size: 1.2rem;
+}
+
+.hero
+{
+    font-size: 3rem;
+}
+.hero-image
+{ 
+    margin: auto;
+    max-width: 350px;
+    display: block;
+
+}
+.hero-heading
+{
+    color: var(--dark-gray);
+    padding-top: 1rem;
+}
+.hero-span
+{
+    color: var(--primary-color);
 }
