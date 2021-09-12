@@ -19,11 +19,11 @@ body{
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
-.primary-link
+.link
 {
     background-color: var
-    (--primary-color);
+    (--black-color);
     border-radius: 0.5rem;
-    color : white
+    color :blueviolet
 
 }
