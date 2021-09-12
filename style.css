@@ -3,6 +3,7 @@
 :root {
     --primary-color:#7c3aed;
     --dark-gray:#6B7280;
+    --off-white:#F3F4F6;
 
 }
 
@@ -107,4 +108,17 @@ body{
 .hero-span
 {
     color: var(--primary-color);
+}
+.section h1
+{
+   text-align: center;
+}
+.section
+{
+    padding: 2rem;
+}
+.ow
+{
+    background-color: var(--off-white);
+
 }
