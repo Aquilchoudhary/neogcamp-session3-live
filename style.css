@@ -146,3 +146,16 @@ body{
     font-size: large;
     font-weight: bold;
 }
+.section3 {
+    margin: 4rem;
+    font-weight: lighter;
+    font-size: 150%;
+    text-align: justify;
+    }
+    .section2{
+        text-align: center;
+        padding-top: 2rem;
+    }
+    .section9 {
+    background-color: white;
+    }
